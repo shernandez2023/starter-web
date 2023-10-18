@@ -16,5 +16,7 @@ SAH test 04
 
 ## How to Contribute
 
+sah test 05 - auto merge
+
 ### Copyright
 2023 Git.training.sah
