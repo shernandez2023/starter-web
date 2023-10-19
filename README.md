@@ -19,4 +19,4 @@ SAH test 04
 sah test 05 - auto merge
 
 ### Copyright
-2023 Git.training.sah
+2023 Git.training.sah All right reserved
